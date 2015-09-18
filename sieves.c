@@ -102,6 +102,5 @@ int main(int argc, char *argv[]){
         print_sieves(atoi(argv[1]));
     else
         printf("Please state an interger number.\n");
-    printf("\n");
     return 0;
 }
